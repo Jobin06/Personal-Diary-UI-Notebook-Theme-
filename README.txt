@@ -51,7 +51,3 @@ Customization:
 - Modify colors and fonts in css/style.css
 - Add new entries following the existing structure
 - Customize mood indicators and navigation items
-
-Author: Created with Bolt AI
-Date: December 2024
-Version: 1.0
